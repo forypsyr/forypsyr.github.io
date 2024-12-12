@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://forypsyr.gopde.com/forypsyr.txt
